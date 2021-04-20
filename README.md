@@ -9,10 +9,7 @@
 1)Arithmetic operator
 2)Relational operator
 3)Logical operator
-4)Assingment operator
-5)Bitwise operator
-6)Relational operator 
-7)Conditional operator
+
 --------- Exectued programs ---------------
 Reverse a 5 digit number 
 Area of a triangle
